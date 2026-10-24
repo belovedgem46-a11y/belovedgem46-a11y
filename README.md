@@ -1,55 +1,50 @@
+👋 Hi, I'm Beloved Gem
 
-Hi, I'm Beloved Gem 👋
+Aspiring Software Developer | Open-Source Enthusiast
 
-Aspiring Software Developer | Open Source Learner
+Welcome to my GitHub! I'm learning by building practical software, solving problems, and sharing my progress with the developer community.
 
-I'm building my skills in software development by creating practical projects, learning in public, and contributing to open-source communities.
+🌍 Based in Nigeria | Interested in collaborating with developers worldwide.
 
-🌍 Based in Nigeria | Open to learning and collaborating worldwide.
+💻 About Me
 
-🚀 What I'm Working Toward
+- 🌱 Currently developing my skills in HTML, CSS, and JavaScript.
+- 🛠️ Building practical web applications.
+- 🤝 Learning Git, GitHub, and open-source contribution.
+- 🎯 Working toward becoming a skilled and dependable software developer.
 
-- 🌐 Learning modern web development
-- 💻 Building useful, beginner-friendly software
-- 🤝 Learning Git, GitHub, and open-source collaboration
-- 📚 Improving my problem-solving and coding skills
+🧰 Technologies I'm Learning
 
-🛠️ My Learning Path
-
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Git and GitHub
+- Responsive Web Design
 
-🎯 My Goals
+🚀 Featured Project
 
-- Publish practical software projects
-- Make my first meaningful open-source contribution
-- Build tools that solve real problems
-- Grow into a reliable software developer
+"Student Task Tracker" (https://belovedgem46-a11y.github.io/student-task-tracker/)
 
-📌 Featured Projects
+A simple web application built to help students organize tasks, manage deadlines, and track completed work.
 
-More projects coming soon as I learn, build, and improve.
+Features: Task creation, completion tracking, deletion, and browser-based storage.
+
+Built with: HTML, CSS, and JavaScript.
+
+"View the source code" (https://github.com/belovedgem46-a11y/student-task-tracker)
+
+📈 My Goals
+
+- Build useful, accessible, and reliable software.
+- Make meaningful open-source contributions.
+- Learn from experienced developers.
+- Create projects that solve real problems.
+- Grow through consistent practice and collaboration.
 
 🤝 Let's Connect
 
-I'm interested in learning from other developers, contributing to open source, and collaborating on useful projects.
+I'm open to learning, constructive feedback, and collaboration on beginner-friendly projects.
 
 ---
 
-Learning consistently. Building intentionally. Improving every day.
-<!--
-**belovedgem46-a11y/belovedgem46-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning continuously. Building with purpose. Growing one project at a time.
